@@ -1,1 +1,3 @@
-We are in git local directory
+We are in git local directory.
+This is for demo purpose
+
